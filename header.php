@@ -124,7 +124,7 @@
                                 <a href="index.php" class="hvr-grow">Home</a>
                             </li>
                             <li style="padding-bottom: 40px;">
-                                <a href="product.php">Products
+                                <a href="#">Products
                                  <ul class="animated fadeIn">
                                      <li>
                                          <a href="product-sub-page.php">Olive Products
@@ -263,7 +263,7 @@
                                 <a href="events&blogs.php">Events & Blogs</a>
                             </li>
                             <li style="padding-bottom:40px;">
-                                <a href="shop.php">Shop Online
+                                <a href="#">Shop Online
                                  <ul class="animated fadeIn">
                                      <li>
                                          <a href="shop-sub-page.php">Olive Products

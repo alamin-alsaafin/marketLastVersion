@@ -19,7 +19,7 @@ include 'header.php' ;
                                 </h3>
                             <p class="info">Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit.
                             </p>
-                            <a href="eventsDetails.html" class="btn btn-secondary badge badge-pill">Reade More</a>
+                            <a href="eventsDetails.php" class="btn btn-secondary badge badge-pill">Reade More</a>
                         </div>
                     </div>
                     <div class="item">
@@ -34,7 +34,7 @@ include 'header.php' ;
                                 </h3>
                             <p class="info">Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit.
                             </p>
-                            <a href="eventsDetails.html" class="btn btn-secondary badge badge-pill">Reade More</a>
+                            <a href="eventsDetails.php" class="btn btn-secondary badge badge-pill">Reade More</a>
                         </div>
                     </div>
                 </div>
@@ -43,13 +43,13 @@ include 'header.php' ;
                 <div class="item-secondary">
                     <div class="item">
                         <div class="thump">
-                            <a href="eventsDetails.html">
+                            <a href="eventsDetails.php">
                                 <img src="assets/images/news-1.jpg" class="img-fluid" alt="">
                             </a>
                         </div>
                         <div class="details">
                             <h3 class="title">
-                                <a href="eventsDetails.html">
+                                <a href="eventsDetails.php">
                                         Sed ut perspiciatis unde omnis unde omnis
                                 </a>
                             </h3>
@@ -57,13 +57,13 @@ include 'header.php' ;
                     </div>
                     <div class="item">
                         <div class="thump">
-                            <a href="eventsDetails.html">
+                            <a href="eventsDetails.php">
                                 <img src="assets/images/news-1.jpg" class="img-fluid" alt="">
                             </a>
                         </div>
                         <div class="details">
                             <h3 class="title">
-                                <a href="eventsDetails.html">
+                                <a href="eventsDetails.php">
                                         Sed ut perspiciatis unde omnis unde omnis
                                 </a>
                             </h3>
@@ -71,13 +71,13 @@ include 'header.php' ;
                     </div>
                     <div class="item">
                         <div class="thump">
-                            <a href="eventsDetails.html">
+                            <a href="eventsDetails.php">
                                 <img src="assets/images/news-1.jpg" class="img-fluid" alt="">
                             </a>
                         </div>
                         <div class="details">
                             <h3 class="title">
-                                <a href="eventsDetails.html">
+                                <a href="eventsDetails.php">
                                         Sed ut perspiciatis unde omnis unde omnis
                                 </a>
                             </h3>

@@ -99,7 +99,7 @@ include 'header.php' ;
                     <div class="tab-pane fade show active" id="organic-hurryUp-hSale" role="tabpanel" aria-labelledby="organic-hurryUp-hSale-tab">
                         <div class="row">
                                     <div class="col-md-6 col-lg-3">
-                                       <a href="product-details.html" class="xs-banner-campaign"></a><div class="xs-organic-product-thumb"><a href="product-details.html" class="xs-banner-campaign">
+                                       <a href="product-details.php" class="xs-banner-campaign"></a><div class="xs-organic-product-thumb"><a href="product-details.php" class="xs-banner-campaign">
                                             <div class="xs-product-header">
                                                 
                                             </div><!-- .xs-product-header END -->
@@ -107,8 +107,8 @@ include 'header.php' ;
                                                 <img src="assets/images/sliced-green.jpg" alt="Organic">
                                             </div><!-- .product-thumb END -->
                                             <p></p>
-                                            </a><h4 class="product-title medium"><a href="product-details.html" class="xs-banner-campaign">
-                                                </a><a href="product-details.html">Red Apple</a>
+                                            </a><h4 class="product-title medium"><a href="product-details.php" class="xs-banner-campaign">
+                                                </a><a href="product-details.php">Red Apple</a>
                                             </h4><!-- .product-title .medium END -->
                                             <p></p>
                                             <div class="hover-box">
@@ -117,7 +117,7 @@ include 'header.php' ;
                                         </div><!-- .xs-organic-product-thumb END -->
                                     </div>
                                     <div class="col-md-6 col-lg-3">
-                                        <a href="product-details.html" class="xs-banner-campaign"></a><div class="xs-organic-product-thumb"><a href="product-details.html" class="xs-banner-campaign">
+                                        <a href="product-details.php" class="xs-banner-campaign"></a><div class="xs-organic-product-thumb"><a href="product-details.php" class="xs-banner-campaign">
                                             <div class="xs-product-header">
                                                 
                                             </div><!-- .xs-product-header END -->
@@ -125,8 +125,8 @@ include 'header.php' ;
                                             <div class="product-thumb">
                                                 <img src="assets/images/sliced-black-olives.jpg" alt="Organic">
                                             </div><!-- .product-thumb END -->
-                                            </a><h4 class="product-title medium"><a href="product-details.html" class="xs-banner-campaign">
-                                                </a><a href="product-details.html">Organic Cherry</a>
+                                            </a><h4 class="product-title medium"><a href="product-details.php" class="xs-banner-campaign">
+                                                </a><a href="product-details.php">Organic Cherry</a>
                                             </h4><!-- .product-title .medium END -->
                                             <p></p>
                                             <div class="hover-box">
@@ -135,7 +135,7 @@ include 'header.php' ;
                                         </div><!-- .xs-organic-product-thumb END -->
                                     </div>
                                     <div class="col-md-6 col-lg-3">
-                                        <a href="product-details.html" class="xs-banner-campaign"></a><div class="xs-organic-product-thumb"><a href="product-details.html" class="xs-banner-campaign">
+                                        <a href="product-details.php" class="xs-banner-campaign"></a><div class="xs-organic-product-thumb"><a href="product-details.php" class="xs-banner-campaign">
                                             <div class="xs-product-header">
                                                 
                                             </div><!-- .xs-product-header END -->
@@ -143,8 +143,8 @@ include 'header.php' ;
                                             <div class="product-thumb">
                                                 <img src="assets/images/tapenade-green-olives.jpg" alt="Organic">
                                             </div><!-- .product-thumb END -->
-                                            </a><h4 class="product-title medium"><a href="product-details.html" class="xs-banner-campaign">
-                                                </a><a href="product-details.html">Organic Cherry</a>
+                                            </a><h4 class="product-title medium"><a href="product-details.php" class="xs-banner-campaign">
+                                                </a><a href="product-details.php">Organic Cherry</a>
                                             </h4><!-- .product-title .medium END -->
                                             <p></p>
                                             <div class="hover-box">
@@ -153,7 +153,7 @@ include 'header.php' ;
                                         </div><!-- .xs-organic-product-thumb END -->
                                     </div>
                                     <div class="col-md-6 col-lg-3">
-                                        <a href="product-details.html" class="xs-banner-campaign"></a><div class="xs-organic-product-thumb"><a href="product-details.html" class="xs-banner-campaign">
+                                        <a href="product-details.php" class="xs-banner-campaign"></a><div class="xs-organic-product-thumb"><a href="product-details.php" class="xs-banner-campaign">
                                             <div class="xs-product-header">
                                                 
                                             </div><!-- .xs-product-header END -->
@@ -161,8 +161,8 @@ include 'header.php' ;
                                             <div class="product-thumb">
                                                 <img src="assets/images/tapenade-blackcopy.jpg" alt="Organic">
                                             </div><!-- .product-thumb END -->
-                                            </a><h4 class="product-title medium"><a href="product-details.html" class="xs-banner-campaign">
-                                                </a><a href="product-details.html">Organic Cherry</a>
+                                            </a><h4 class="product-title medium"><a href="product-details.php" class="xs-banner-campaign">
+                                                </a><a href="product-details.php">Organic Cherry</a>
                                             </h4><!-- .product-title .medium END -->
                                             <p></p>
                                             <div class="hover-box">
@@ -171,7 +171,7 @@ include 'header.php' ;
                                         </div><!-- .xs-organic-product-thumb END -->
                                     </div>
                                     <div class="col-md-6 col-lg-3">
-                                       <a href="product-details.html" class="xs-banner-campaign"> </a><div class="xs-organic-product-thumb"><a href="product-details.html" class="xs-banner-campaign">
+                                       <a href="product-details.php" class="xs-banner-campaign"> </a><div class="xs-organic-product-thumb"><a href="product-details.php" class="xs-banner-campaign">
                                             <div class="xs-product-header">
                                                 
                                             </div><!-- .xs-product-header END -->
@@ -179,8 +179,8 @@ include 'header.php' ;
                                             <div class="product-thumb">
                                                 <img src="assets/images/black-without-salt.jpg" alt="Organic">
                                             </div><!-- .product-thumb END -->
-                                            </a><h4 class="product-title medium"><a href="product-details.html" class="xs-banner-campaign">
-                                                </a><a href="product-details.html">Organic Cherry</a>
+                                            </a><h4 class="product-title medium"><a href="product-details.php" class="xs-banner-campaign">
+                                                </a><a href="product-details.php">Organic Cherry</a>
                                             </h4><!-- .product-title .medium END -->
                                             <p></p>
                                             <div class="hover-box">
@@ -189,7 +189,7 @@ include 'header.php' ;
                                         </div><!-- .xs-organic-product-thumb END -->
                                     </div>
                                     <div class="col-md-6 col-lg-3">
-                                        <a href="product-details.html" class="xs-banner-campaign"></a><div class="xs-organic-product-thumb"><a href="product-details.html" class="xs-banner-campaign">
+                                        <a href="product-details.php" class="xs-banner-campaign"></a><div class="xs-organic-product-thumb"><a href="product-details.php" class="xs-banner-campaign">
                                             <div class="xs-product-header">
                                                 
                                             </div><!-- .xs-product-header END -->
@@ -197,8 +197,8 @@ include 'header.php' ;
                                             <div class="product-thumb">
                                                 <img src="assets/images/black-first-baladi.jpg" alt="Organic">
                                             </div><!-- .product-thumb END -->
-                                            </a><h4 class="product-title medium"><a href="product-details.html" class="xs-banner-campaign">
-                                                </a><a href="product-details.html">Organic Cherry</a>
+                                            </a><h4 class="product-title medium"><a href="product-details.php" class="xs-banner-campaign">
+                                                </a><a href="product-details.php">Organic Cherry</a>
                                             </h4><!-- .product-title .medium END -->
                                             <p></p>
                                             <div class="hover-box">
@@ -207,7 +207,7 @@ include 'header.php' ;
                                         </div><!-- .xs-organic-product-thumb END -->
                                     </div>
                                     <div class="col-md-6 col-lg-3">
-                                       <a href="product-details.html" class="xs-banner-campaign"> </a><div class="xs-organic-product-thumb"><a href="product-details.html" class="xs-banner-campaign">
+                                       <a href="product-details.php" class="xs-banner-campaign"> </a><div class="xs-organic-product-thumb"><a href="product-details.php" class="xs-banner-campaign">
                                             <div class="xs-product-header">
                                                 
                                             </div><!-- .xs-product-header END -->
@@ -215,8 +215,8 @@ include 'header.php' ;
                                             <div class="product-thumb">
                                                 <img src="assets/images/extra-leb.green-olives.jpg" alt="Organic">
                                             </div><!-- .product-thumb END -->
-                                            </a><h4 class="product-title medium"><a href="product-details.html" class="xs-banner-campaign">
-                                                </a><a href="product-details.html">Strawbery</a>
+                                            </a><h4 class="product-title medium"><a href="product-details.php" class="xs-banner-campaign">
+                                                </a><a href="product-details.php">Strawbery</a>
                                             </h4><!-- .product-title .medium END -->
                                             <p></p>
                                             <div class="hover-box">
@@ -225,7 +225,7 @@ include 'header.php' ;
                                         </div><!-- .xs-organic-product-thumb END -->
                                     </div>
                                     <div class="col-md-6 col-lg-3">
-                                        <a href="product-details.html" class="xs-banner-campaign"></a><div class="xs-organic-product-thumb"><a href="product-details.html" class="xs-banner-campaign">
+                                        <a href="product-details.php" class="xs-banner-campaign"></a><div class="xs-organic-product-thumb"><a href="product-details.php" class="xs-banner-campaign">
                                             <div class="xs-product-header">
                                                 
                                             </div><!-- .xs-product-header END -->
@@ -233,8 +233,8 @@ include 'header.php' ;
                                             <div class="product-thumb">
                                                 <img src="assets/images/green-baladi (1).jpg" alt="Organic">
                                             </div><!-- .product-thumb END -->
-                                            </a><h4 class="product-title medium"><a href="product-details.html" class="xs-banner-campaign">
-                                                </a><a href="product-details.html">Orrange</a>
+                                            </a><h4 class="product-title medium"><a href="product-details.php" class="xs-banner-campaign">
+                                                </a><a href="product-details.php">Orrange</a>
                                             </h4><!-- .product-title .medium END -->
                                             <p></p>
                                             <div class="hover-box">
@@ -243,7 +243,7 @@ include 'header.php' ;
                                         </div><!-- .xs-organic-product-thumb END -->
                                     </div>
                                     <div class="col-md-6 col-lg-3">
-                                       <a href="product-details.html" class="xs-banner-campaign"> </a><div class="xs-organic-product-thumb"><a href="product-details.html" class="xs-banner-campaign">
+                                       <a href="product-details.php" class="xs-banner-campaign"> </a><div class="xs-organic-product-thumb"><a href="product-details.php" class="xs-banner-campaign">
                                             <div class="xs-product-header">
                                                 
                                             </div><!-- .xs-product-header END -->
@@ -251,8 +251,8 @@ include 'header.php' ;
                                             <div class="product-thumb">
                                                 <img src="assets/images/green-baladi.jpg" alt="Organic">
                                             </div><!-- .product-thumb END -->
-                                            </a><h4 class="product-title medium"><a href="product-details.html" class="xs-banner-campaign">
-                                                </a><a href="product-details.html">Watermelon</a>
+                                            </a><h4 class="product-title medium"><a href="product-details.php" class="xs-banner-campaign">
+                                                </a><a href="product-details.php">Watermelon</a>
                                             </h4><!-- .product-title .medium END -->
                                             <p></p>
                                             <div class="hover-box">
@@ -261,7 +261,7 @@ include 'header.php' ;
                                         </div><!-- .xs-organic-product-thumb END -->
                                     </div>
                                     <div class="col-md-6 col-lg-3">
-                                       <a href="product-details.html" class="xs-banner-campaign"> </a><div class="xs-organic-product-thumb"><a href="product-details.html" class="xs-banner-campaign">
+                                       <a href="product-details.php" class="xs-banner-campaign"> </a><div class="xs-organic-product-thumb"><a href="product-details.php" class="xs-banner-campaign">
                                             <div class="xs-product-header">
                                                 
                                             </div><!-- .xs-product-header END -->
@@ -269,8 +269,8 @@ include 'header.php' ;
                                             <div class="product-thumb">
                                                 <img src="assets/images/green-first-baladi.jpg" alt="Organic">
                                             </div><!-- .product-thumb END -->
-                                            </a><h4 class="product-title medium"><a href="product-details.html" class="xs-banner-campaign">
-                                                </a><a href="product-details.html">Pineapple</a>
+                                            </a><h4 class="product-title medium"><a href="product-details.php" class="xs-banner-campaign">
+                                                </a><a href="product-details.php">Pineapple</a>
                                             </h4><!-- .product-title .medium END -->
                                            <p></p>
                                             <div class="hover-box">
@@ -279,7 +279,7 @@ include 'header.php' ;
                                         </div><!-- .xs-organic-product-thumb END -->
                                     </div>
                                     <div class="col-md-6 col-lg-3">
-                                       <a href="product-details.html" class="xs-banner-campaign"> </a><div class="xs-organic-product-thumb"><a href="product-details.html" class="xs-banner-campaign">
+                                       <a href="product-details.php" class="xs-banner-campaign"> </a><div class="xs-organic-product-thumb"><a href="product-details.php" class="xs-banner-campaign">
                                             <div class="xs-product-header">
                                                 
                                             </div><!-- .xs-product-header END -->
@@ -287,8 +287,8 @@ include 'header.php' ;
                                             <div class="product-thumb">
                                                 <img src="assets/images/green-zahra.jpg" alt="Organic">
                                             </div><!-- .product-thumb END -->
-                                            </a><h4 class="product-title medium"><a href="product-details.html" class="xs-banner-campaign">
-                                                </a><a href="product-details.html">Mango</a>
+                                            </a><h4 class="product-title medium"><a href="product-details.php" class="xs-banner-campaign">
+                                                </a><a href="product-details.php">Mango</a>
                                             </h4><!-- .product-title .medium END -->
                                            <p></p>
                                             <div class="hover-box">
@@ -297,7 +297,7 @@ include 'header.php' ;
                                         </div><!-- .xs-organic-product-thumb END -->
                                     </div>
                                     <div class="col-md-6 col-lg-3">
-                                        <a href="product-details.html" class="xs-banner-campaign"></a><div class="xs-organic-product-thumb"><a href="product-details.html" class="xs-banner-campaign">
+                                        <a href="product-details.php" class="xs-banner-campaign"></a><div class="xs-organic-product-thumb"><a href="product-details.php" class="xs-banner-campaign">
                                             <div class="xs-product-header">
                                                
                                             </div><!-- .xs-product-header END -->
@@ -305,8 +305,8 @@ include 'header.php' ;
                                             <div class="product-thumb">
                                                 <img src="assets/images/extra-leb.green-olives.jpg" alt="Organic">
                                             </div><!-- .product-thumb END -->
-                                            </a><h4 class="product-title medium"><a href="product-details.html" class="xs-banner-campaign">
-                                                </a><a href="product-details.html">Mango</a>
+                                            </a><h4 class="product-title medium"><a href="product-details.php" class="xs-banner-campaign">
+                                                </a><a href="product-details.php">Mango</a>
                                             </h4><!-- .product-title .medium END -->
                                            <p></p>
                                             <div class="hover-box">
@@ -331,7 +331,7 @@ include 'header.php' ;
                                         <img src="assets/images/image_loader.gif" data-echo="assets/images/organic_fruits/fruit_5.png" alt="Organic">
                                     </div><!-- .product-thumb END -->
                                     <h4 class="product-title medium">
-                                        <a href="product-details.html">Watermelon</a>
+                                        <a href="product-details.php">Watermelon</a>
                                     </h4><!-- .product-title .medium END -->
                                     <div class="content-box">
                                         <span class="price">
@@ -340,7 +340,7 @@ include 'header.php' ;
                                         </span>
                                     </div><!-- .content-box END -->
                                     <div class="hover-box">
-                                        <a href="product-details.html" class="icon-left btn-cart">
+                                        <a href="product-details.php" class="icon-left btn-cart">
                                             <i class="icon icon-shopping-cart"></i>
                                             Add To Cart
                                         </a>
@@ -360,7 +360,7 @@ include 'header.php' ;
                                         <img src="assets/images/image_loader.gif" data-echo="assets/images/vegetables/beet.png" alt="Organic">
                                     </div><!-- .product-thumb END -->
                                     <h4 class="product-title medium">
-                                        <a href="product-details.html">Pineapple</a>
+                                        <a href="product-details.php">Pineapple</a>
                                     </h4><!-- .product-title .medium END -->
                                     <div class="content-box">
                                         <span class="price">
@@ -369,7 +369,7 @@ include 'header.php' ;
                                         </span>
                                     </div><!-- .content-box END -->
                                     <div class="hover-box">
-                                        <a href="product-details.html" class="icon-left btn-cart">
+                                        <a href="product-details.php" class="icon-left btn-cart">
                                             <i class="icon icon-shopping-cart"></i>
                                             Add To Cart
                                         </a>
@@ -389,7 +389,7 @@ include 'header.php' ;
                                         <img src="assets/images/image_loader.gif" data-echo="assets/images/juices/juice_10.png" alt="Organic">
                                     </div><!-- .product-thumb END -->
                                     <h4 class="product-title medium">
-                                        <a href="product-details.html">Lychee</a>
+                                        <a href="product-details.php">Lychee</a>
                                     </h4><!-- .product-title .medium END -->
                                     <div class="content-box">
                                         <span class="price">
@@ -398,7 +398,7 @@ include 'header.php' ;
                                         </span>
                                     </div><!-- .content-box END -->
                                     <div class="hover-box">
-                                        <a href="product-details.html" class="icon-left btn-cart">
+                                        <a href="product-details.php" class="icon-left btn-cart">
                                             <i class="icon icon-shopping-cart"></i>
                                             Add To Cart
                                         </a>
@@ -418,7 +418,7 @@ include 'header.php' ;
                                         <img src="assets/images/image_loader.gif" data-echo="assets/images/juices/juice_11.png" alt="Organic">
                                     </div><!-- .product-thumb END -->
                                     <h4 class="product-title medium">
-                                        <a href="product-details.html">Mango</a>
+                                        <a href="product-details.php">Mango</a>
                                     </h4><!-- .product-title .medium END -->
                                     <div class="content-box">
                                         <span class="price">
@@ -427,7 +427,7 @@ include 'header.php' ;
                                         </span>
                                     </div><!-- .content-box END -->
                                     <div class="hover-box">
-                                        <a href="product-details.html" class="icon-left btn-cart">
+                                        <a href="product-details.php" class="icon-left btn-cart">
                                             <i class="icon icon-shopping-cart"></i>
                                             Add To Cart
                                         </a>
@@ -447,7 +447,7 @@ include 'header.php' ;
                                         <img src="assets/images/image_loader.gif" data-echo="assets/images/vegetables/cabbage_1.png" alt="Organic">
                                     </div><!-- .product-thumb END -->
                                     <h4 class="product-title medium">
-                                        <a href="product-details.html">Red Apple</a>
+                                        <a href="product-details.php">Red Apple</a>
                                     </h4><!-- .product-title .medium END -->
                                     <div class="content-box">
                                         <span class="price">
@@ -456,7 +456,7 @@ include 'header.php' ;
                                         </span>
                                     </div><!-- .content-box END -->
                                     <div class="hover-box">
-                                        <a href="product-details.html" class="icon-left btn-cart">
+                                        <a href="product-details.php" class="icon-left btn-cart">
                                             <i class="icon icon-shopping-cart"></i>
                                             Add To Cart
                                         </a>
@@ -476,7 +476,7 @@ include 'header.php' ;
                                         <img src="assets/images/image_loader.gif" data-echo="assets/images/organic_fruits/fruit_2.png" alt="Organic">
                                     </div><!-- .product-thumb END -->
                                     <h4 class="product-title medium">
-                                        <a href="product-details.html">Organic Cherry</a>
+                                        <a href="product-details.php">Organic Cherry</a>
                                     </h4><!-- .product-title .medium END -->
                                     <div class="content-box">
                                         <span class="price">
@@ -485,7 +485,7 @@ include 'header.php' ;
                                         </span>
                                     </div><!-- .content-box END -->
                                     <div class="hover-box">
-                                        <a href="product-details.html" class="icon-left btn-cart">
+                                        <a href="product-details.php" class="icon-left btn-cart">
                                             <i class="icon icon-shopping-cart"></i>
                                             Add To Cart
                                         </a>
@@ -505,7 +505,7 @@ include 'header.php' ;
                                         <img src="assets/images/image_loader.gif" data-echo="assets/images/vegetables/cowliflower.png" alt="Organic">
                                     </div><!-- .product-thumb END -->
                                     <h4 class="product-title medium">
-                                        <a href="product-details.html">Strawbery</a>
+                                        <a href="product-details.php">Strawbery</a>
                                     </h4><!-- .product-title .medium END -->
                                     <div class="content-box">
                                         <span class="price">
@@ -514,7 +514,7 @@ include 'header.php' ;
                                         </span>
                                     </div><!-- .content-box END -->
                                     <div class="hover-box">
-                                        <a href="product-details.html" class="icon-left btn-cart">
+                                        <a href="product-details.php" class="icon-left btn-cart">
                                             <i class="icon icon-shopping-cart"></i>
                                             Add To Cart
                                         </a>
@@ -534,7 +534,7 @@ include 'header.php' ;
                                         <img src="assets/images/image_loader.gif" data-echo="assets/images/juices/juice_orange_2.png" alt="Organic">
                                     </div><!-- .product-thumb END -->
                                     <h4 class="product-title medium">
-                                        <a href="product-details.html">Orrange</a>
+                                        <a href="product-details.php">Orrange</a>
                                     </h4><!-- .product-title .medium END -->
                                     <div class="content-box">
                                         <span class="price">
@@ -543,7 +543,7 @@ include 'header.php' ;
                                         </span>
                                     </div><!-- .content-box END -->
                                     <div class="hover-box">
-                                        <a href="product-details.html" class="icon-left btn-cart">
+                                        <a href="product-details.php" class="icon-left btn-cart">
                                             <i class="icon icon-shopping-cart"></i>
                                             Add To Cart
                                         </a>
@@ -567,7 +567,7 @@ include 'header.php' ;
                                         <img src="assets/images/image_loader.gif" data-echo="assets/images/vegetables/cabbage_1.png" alt="Organic">
                                     </div><!-- .product-thumb END -->
                                     <h4 class="product-title medium">
-                                        <a href="product-details.html">Red Apple</a>
+                                        <a href="product-details.php">Red Apple</a>
                                     </h4><!-- .product-title .medium END -->
                                     <div class="content-box">
                                         <span class="price">
@@ -576,7 +576,7 @@ include 'header.php' ;
                                         </span>
                                     </div><!-- .content-box END -->
                                     <div class="hover-box">
-                                        <a href="product-details.html" class="icon-left btn-cart">
+                                        <a href="product-details.php" class="icon-left btn-cart">
                                             <i class="icon icon-shopping-cart"></i>
                                             Add To Cart
                                         </a>
@@ -596,7 +596,7 @@ include 'header.php' ;
                                         <img src="assets/images/image_loader.gif" data-echo="assets/images/organic_fruits/fruit_2.png" alt="Organic">
                                     </div><!-- .product-thumb END -->
                                     <h4 class="product-title medium">
-                                        <a href="product-details.html">Organic Cherry</a>
+                                        <a href="product-details.php">Organic Cherry</a>
                                     </h4><!-- .product-title .medium END -->
                                     <div class="content-box">
                                         <span class="price">
@@ -605,7 +605,7 @@ include 'header.php' ;
                                         </span>
                                     </div><!-- .content-box END -->
                                     <div class="hover-box">
-                                        <a href="product-details.html" class="icon-left btn-cart">
+                                        <a href="product-details.php" class="icon-left btn-cart">
                                             <i class="icon icon-shopping-cart"></i>
                                             Add To Cart
                                         </a>
@@ -625,7 +625,7 @@ include 'header.php' ;
                                         <img src="assets/images/image_loader.gif" data-echo="assets/images/vegetables/cowliflower.png" alt="Organic">
                                     </div><!-- .product-thumb END -->
                                     <h4 class="product-title medium">
-                                        <a href="product-details.html">Strawbery</a>
+                                        <a href="product-details.php">Strawbery</a>
                                     </h4><!-- .product-title .medium END -->
                                     <div class="content-box">
                                         <span class="price">
@@ -634,7 +634,7 @@ include 'header.php' ;
                                         </span>
                                     </div><!-- .content-box END -->
                                     <div class="hover-box">
-                                        <a href="product-details.html" class="icon-left btn-cart">
+                                        <a href="product-details.php" class="icon-left btn-cart">
                                             <i class="icon icon-shopping-cart"></i>
                                             Add To Cart
                                         </a>
@@ -654,7 +654,7 @@ include 'header.php' ;
                                         <img src="assets/images/image_loader.gif" data-echo="assets/images/juices/juice_orange_2.png" alt="Organic">
                                     </div><!-- .product-thumb END -->
                                     <h4 class="product-title medium">
-                                        <a href="product-details.html">Orrange</a>
+                                        <a href="product-details.php">Orrange</a>
                                     </h4><!-- .product-title .medium END -->
                                     <div class="content-box">
                                         <span class="price">
@@ -663,7 +663,7 @@ include 'header.php' ;
                                         </span>
                                     </div><!-- .content-box END -->
                                     <div class="hover-box">
-                                        <a href="product-details.html" class="icon-left btn-cart">
+                                        <a href="product-details.php" class="icon-left btn-cart">
                                             <i class="icon icon-shopping-cart"></i>
                                             Add To Cart
                                         </a>
@@ -683,7 +683,7 @@ include 'header.php' ;
                                         <img src="assets/images/image_loader.gif" data-echo="assets/images/organic_fruits/fruit_5.png" alt="Organic">
                                     </div><!-- .product-thumb END -->
                                     <h4 class="product-title medium">
-                                        <a href="product-details.html">Watermelon</a>
+                                        <a href="product-details.php">Watermelon</a>
                                     </h4><!-- .product-title .medium END -->
                                     <div class="content-box">
                                         <span class="price">
@@ -870,7 +870,7 @@ include 'header.php' ;
                                         </span>
                                     </div><!-- .content-box END -->
                                     <div class="hover-box">
-                                        <a href="product-details.html" class="icon-left btn-cart">
+                                        <a href="product-details.php" class="icon-left btn-cart">
                                             <i class="icon icon-shopping-cart"></i>
                                             Add To Cart
                                         </a>
@@ -890,7 +890,7 @@ include 'header.php' ;
                                         <img src="assets/images/image_loader.gif" data-echo="assets/images/juices/juice_11.png" alt="Organic">
                                     </div><!-- .product-thumb END -->
                                     <h4 class="product-title medium">
-                                        <a href="product-details.html">Mango</a>
+                                        <a href="product-details.php">Mango</a>
                                     </h4><!-- .product-title .medium END -->
                                     <div class="content-box">
                                         <span class="price">
@@ -919,7 +919,7 @@ include 'header.php' ;
                                         <img src="assets/images/image_loader.gif" data-echo="assets/images/vegetables/cabbage_1.png" alt="Organic">
                                     </div><!-- .product-thumb END -->
                                     <h4 class="product-title medium">
-                                        <a href="product-details.html">Red Apple</a>
+                                        <a href="product-details.php">Red Apple</a>
                                     </h4><!-- .product-title .medium END -->
                                     <div class="content-box">
                                         <span class="price">
@@ -928,7 +928,7 @@ include 'header.php' ;
                                         </span>
                                     </div><!-- .content-box END -->
                                     <div class="hover-box">
-                                        <a href="product-details.html" class="icon-left btn-cart">
+                                        <a href="product-details.php" class="icon-left btn-cart">
                                             <i class="icon icon-shopping-cart"></i>
                                             Add To Cart
                                         </a>
@@ -948,7 +948,7 @@ include 'header.php' ;
                                         <img src="assets/images/image_loader.gif" data-echo="assets/images/organic_fruits/fruit_2.png" alt="Organic">
                                     </div><!-- .product-thumb END -->
                                     <h4 class="product-title medium">
-                                        <a href="product-details.html">Organic Cherry</a>
+                                        <a href="product-details.php">Organic Cherry</a>
                                     </h4><!-- .product-title .medium END -->
                                     <div class="content-box">
                                         <span class="price">
@@ -977,7 +977,7 @@ include 'header.php' ;
                                         <img src="assets/images/image_loader.gif" data-echo="assets/images/vegetables/cowliflower.png" alt="Organic">
                                     </div><!-- .product-thumb END -->
                                     <h4 class="product-title medium">
-                                        <a href="product-details.html">Strawbery</a>
+                                        <a href="product-details.php">Strawbery</a>
                                     </h4><!-- .product-title .medium END -->
                                     <div class="content-box">
                                         <span class="price">
@@ -986,7 +986,7 @@ include 'header.php' ;
                                         </span>
                                     </div><!-- .content-box END -->
                                     <div class="hover-box">
-                                        <a href="product-details.html" class="icon-left btn-cart">
+                                        <a href="product-details.php" class="icon-left btn-cart">
                                             <i class="icon icon-shopping-cart"></i>
                                             Add To Cart
                                         </a>
@@ -1006,7 +1006,7 @@ include 'header.php' ;
                                         <img src="assets/images/image_loader.gif" data-echo="assets/images/juices/juice_orange_2.png" alt="Organic">
                                     </div><!-- .product-thumb END -->
                                     <h4 class="product-title medium">
-                                        <a href="product-details.html">Orrange</a>
+                                        <a href="product-details.php">Orrange</a>
                                     </h4><!-- .product-title .medium END -->
                                     <div class="content-box">
                                         <span class="price">
@@ -1111,7 +1111,7 @@ include 'header.php' ;
     <div class="container">
         <div class="row">
             <div class="col-lg-6">
-                <a href="product-details.html" class="xs-organic-product-widget media"style="background-image: url('assets/images/cv.jpg');    background-repeat: no-repeat;">
+                <a href="product-details.php" class="xs-organic-product-widget media"style="background-image: url('assets/images/cv.jpg');    background-repeat: no-repeat;">
                     
                     <div class="media-body organic-widget-content">
                         
@@ -1119,7 +1119,7 @@ include 'header.php' ;
                 </a><!--.xs-organic-product-widget END  -->
             </div>
             <div class="col-lg-6">
-                <a href="product-details.html" class="xs-organic-product-widget red-version media"style="background-image: url('assets/images/cvv.jpg');    background-repeat: no-repeat;">
+                <a href="product-details.php" class="xs-organic-product-widget red-version media"style="background-image: url('assets/images/cvv.jpg');    background-repeat: no-repeat;">
                    
                     <div class="media-body organic-widget-content">
                         

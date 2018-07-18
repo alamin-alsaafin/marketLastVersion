@@ -144,7 +144,7 @@ include'header.php' ;
                             <strong>Total</strong><span><strong> $ 59.99 </strong></span>
                         </li>
                     </ul>
-                    <a href="checkout.html">
+                    <a href="checkout.php">
                         <button type="submit" class="btn btn-primary" name="submit">Proceed To Checkout</button>
                         
                     </a>

@@ -12,15 +12,15 @@ include 'header.php' ;
                          
 
                         <div class="owl-stage-outer"><div class="owl-stage" style="transform: translate3d(-1080px, 0px, 0px); transition: 0s; width: 2700px;"><div class="owl-item cloned" style="width: 540px;"><div class="item">
-                                <img src="http://bn.testfoxy.site/storage/products/July2018/DQ0umRJpc47MbOPNF8fu.jpg" alt="Product">
+                                <img src="assets/images/green-baladi.jpg" alt="Product">
                             </div></div><div class="owl-item cloned" style="width: 540px;"><div class="item">
-                                <img src="http://bn.testfoxy.site/storage/products/July2018/DQ0umRJpc47MbOPNF8fu.jpg" alt="Product">
+                                <img src="assets/images/green-baladi.jpg" alt="Product">
                             </div></div><div class="owl-item active" style="width: 540px;"><div class="item">
-                                <img src="http://bn.testfoxy.site/storage/products/July2018/DQ0umRJpc47MbOPNF8fu.jpg" alt="Product">
+                                <img src="assets/images/green-baladi.jpg" alt="Product">
                             </div></div><div class="owl-item cloned" style="width: 540px;"><div class="item">
-                                <img src="http://bn.testfoxy.site/storage/products/July2018/DQ0umRJpc47MbOPNF8fu.jpg" alt="Product">
+                                <img src="assets/images/green-baladi.jpg" alt="Product">
                             </div></div><div class="owl-item cloned" style="width: 540px;"><div class="item">
-                                <img src="http://bn.testfoxy.site/storage/products/July2018/DQ0umRJpc47MbOPNF8fu.jpg" alt="Product">
+                                <img src="assets/images/green-baladi.jpg" alt="Product">
                             </div></div></div></div><div class="owl-nav disabled"><div class="owl-prev"></div><div class="owl-next"></div></div><div class="owl-dots disabled"></div></div>
                     </div>
 
@@ -29,7 +29,7 @@ include 'header.php' ;
 
                                                     
                                             <div class="owl-stage-outer"><div class="owl-stage" style="transform: translate3d(0px, 0px, 0px); transition: 0s; width: 190px;"><div class="owl-item active current" style="width: 160px; margin-right: 30px;"><div class="item">
-                                <img src="http://bn.testfoxy.site/storage/products/July2018/DQ0umRJpc47MbOPNF8fu.jpg" alt="Product">
+                                <img src="assets/images/green-baladi.jpg" alt="Product">
                             </div></div></div></div><div class="owl-nav disabled"><div class="owl-prev">prev</div><div class="owl-next">next</div></div><div class="owl-dots disabled"></div></div>
                 </div>
                 <div class="col-lg-6">
@@ -70,7 +70,7 @@ include 'header.php' ;
                                         <!--<button type="submit" class="btn btn-secondary badge badge-pill" style="border-radius:30px">
                                             Add To Cart
                                         </button>-->
-                                        <a href="cart.html" class="btn btn-secondary badge badge-pill">Add to Cart</a>
+                                        <a href="cart.php" class="btn btn-secondary badge badge-pill">Add to Cart</a>
                                     </div>
                                     <div class="clearfix"></div>
                                 </form>
