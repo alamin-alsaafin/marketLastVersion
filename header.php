@@ -66,6 +66,14 @@
 {
     right: 49% !important;
 } 
+.xs-sync-slider-preview .owl-item .item img {
+    width: 46% !important;
+    margin-left: 32% !important;
+}
+.sync-slider-thumb .item img {
+    width: 56% !important;
+    height: 100% !important;
+}
     </style>
 </head>
 <style type="text/css">
