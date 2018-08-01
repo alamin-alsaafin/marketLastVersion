@@ -74,7 +74,52 @@
     width: 56% !important;
     height: 100% !important;
 }
-    </style>
+@media (width: 1600px)
+{
+    .slider
+    {
+        width: 1600px;
+    }
+    .xs-section-padding
+    {
+        margin-top: 16%;
+    }
+}
+@media (width: 2600px)
+{
+    .slider
+    {
+        width: 2600px;
+    }
+    .xs-section-padding
+    {
+        margin-top: 27%;
+    }
+}
+@media (width: 1900px)
+{
+    .slider
+    {
+        width: 1900px;
+    }
+    .xs-section-padding
+    {
+        margin-top: 16%;
+    }
+}
+@media (width: 1950px)
+{
+    .slider
+    {
+        width: 1950px;
+    }
+    .xs-section-padding
+    {
+        margin-top: 16%;
+    }
+}
+</style>
+
 </head>
 <style type="text/css">
 
